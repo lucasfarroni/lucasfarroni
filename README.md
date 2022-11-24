@@ -13,8 +13,6 @@ i'm currently student in computer science
 ![](https://github-profile-trophy.vercel.app/?username=lucasfarroni&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasfarroni&icon=0&color=3)](https://visitcount.itsvg.in)
